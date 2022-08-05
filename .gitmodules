@@ -1,0 +1,20 @@
+[submodule "prj-analytic-dashboard"]
+	path = prj-analytic-dashboard
+	url = git@github.com:abuabdirohman4/prj-analytic-dashboard.git
+	branch = develop
+[submodule "prj-nomads-travel-web"]
+	path = prj-nomads-travel-web
+	url = git@github.com:abuabdirohman4/prj-nomads-travel-web.git
+	branch = main
+[submodule "prj-portfolio"]
+	path = prj-portfolio
+	url = git@github.com:abuabdirohman4/prj-portfolio.git
+	branch = prod
+[submodule "prj-gnbs-module"]
+	path = prj-gnbs-module
+	url = git@github.com:abuabdirohman4/prj-gnbs-module.git
+	branch = main
+[submodule "prj-yea-virtual"]
+	path = prj-yea-virtual
+	url = git@github.com:abuabdirohman4/prj-yea-virtual.git
+	branch = main
