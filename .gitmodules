@@ -22,3 +22,11 @@
 	path = prj-yea-virtual
 	url = git@github.com:abuabdirohman4/prj-yea-virtual.git
 	branch = main
+[submodule "prj-my-dashboard"]
+	path = prj-my-dashboard
+	url = git@github.com:abuabdirohman4/prj-my-dashboard.git
+	branch = develop
+[submodule "prj-co-portal"]
+	path = prj-co-portal
+	url = git@github.com:abuabdirohman4/prj-co-portal.git
+	branch = develop
