@@ -13,7 +13,7 @@
 [submodule "prj-portfolio"]
 	path = prj-portfolio
 	url = git@github.com:abuabdirohman4/prj-portfolio.git
-	branch = prod
+	branch = master
 [submodule "prj-sabilillah-app"]
 	path = prj-sabilillah-app
 	url = git@github.com:abuabdirohman4/prj-sabilillah-app.git
