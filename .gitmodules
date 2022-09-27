@@ -30,3 +30,7 @@
 	path = prj-co-portal
 	url = git@github.com:abuabdirohman4/prj-co-portal.git
 	branch = develop
+[submodule "prj-annotation-tool"]
+	path = prj-annotation-tool
+	url = git@github.com:abuabdirohman4/prj-annotation-tool.git
+	branch = master
