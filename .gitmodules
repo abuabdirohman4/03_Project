@@ -34,3 +34,9 @@
 	path = prj-annotation-tool
 	url = git@github.com:abuabdirohman4/prj-annotation-tool.git
 	branch = master
+[submodule "prj-sikatrol-surat"]
+	path = prj-sikatrol-surat
+	url = git@github.com:abuabdirohman4/prj-sikatrol-surat.git
+[submodule "prj-inventory-management"]
+	path = prj-inventory-management
+	url = git@github.com:abuabdirohman4/prj-inventory-management.git
