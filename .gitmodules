@@ -40,3 +40,6 @@
 [submodule "prj-inventory-management"]
 	path = prj-inventory-management
 	url = git@github.com:abuabdirohman4/prj-inventory-management.git
+[submodule "prj-monev"]
+	path = prj-monev
+	url = git@github.com:abuabdirohman4/prj-monev.git
