@@ -43,3 +43,6 @@
 [submodule "prj-monev"]
 	path = prj-monev
 	url = git@github.com:abuabdirohman4/prj-monev.git
+[submodule "prj-autowealth"]
+	path = prj-autowealth
+	url = https://github.com/abuabdirohman4/prj-autowealth
