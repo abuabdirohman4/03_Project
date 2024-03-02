@@ -46,3 +46,6 @@
 [submodule "prj-autowealth"]
 	path = prj-autowealth
 	url = https://github.com/abuabdirohman4/prj-autowealth
+[submodule "prj-rwid-ulul"]
+	path = prj-rwid-ulul
+	url = https://github.com/abuabdirohman4/prj-rwid-ulul.git
