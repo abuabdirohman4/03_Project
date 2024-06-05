@@ -49,3 +49,6 @@
 [submodule "prj-rwid-ulul"]
 	path = prj-rwid-ulul
 	url = https://github.com/abuabdirohman4/prj-rwid-ulul.git
+[submodule "prj-financial-app"]
+	path = prj-financial-app
+	url = git@github.com:abuabdirohman4/prj-financial-app.git
