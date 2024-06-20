@@ -52,3 +52,6 @@
 [submodule "prj-financial-app"]
 	path = prj-financial-app
 	url = git@github.com:abuabdirohman4/prj-financial-app.git
+[submodule "prj-financial-app-mobile"]
+	path = prj-financial-app-mobile
+	url = https://github.com/abuabdirohman4/prj-financial-app-mobile.git
