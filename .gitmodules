@@ -58,6 +58,6 @@
 [submodule "prj-habit-tracker"]
 	path = prj-habit-tracker
 	url = https://github.com/abuabdirohman4/prj-habit-tracker.git
-[submodule "better-planner"]
-	path = better-planner
-	url = https://github.com/abuabdirohman4/better-planner.git
+[submodule "prj-better-planner"]
+	path = prj-better-planner
+	url = git@github.com:abuabdirohman4/prj-better-planner.git
