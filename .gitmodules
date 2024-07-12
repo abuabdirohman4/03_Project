@@ -49,9 +49,6 @@
 [submodule "prj-rwid-ulul"]
 	path = prj-rwid-ulul
 	url = https://github.com/abuabdirohman4/prj-rwid-ulul.git
-[submodule "prj-financial-app-mobile"]
-	path = prj-financial-app-mobile
-	url = https://github.com/abuabdirohman4/prj-financial-app-mobile.git
 [submodule "prj-better-planner"]
 	path = prj-better-planner
 	url = git@github.com:abuabdirohman4/prj-better-planner.git
@@ -61,3 +58,6 @@
 [submodule "prj-better-finance"]
 	path = prj-better-finance
 	url = git@github.com:abuabdirohman4/prj-better-finance.git
+[submodule "prj-better-finance-mobile"]
+	path = prj-better-finance-mobile
+	url = git@github.com:abuabdirohman4/prj-better-finance-mobile.git
