@@ -55,9 +55,9 @@
 [submodule "prj-financial-app-mobile"]
 	path = prj-financial-app-mobile
 	url = https://github.com/abuabdirohman4/prj-financial-app-mobile.git
-[submodule "prj-habit-tracker"]
-	path = prj-habit-tracker
-	url = https://github.com/abuabdirohman4/prj-habit-tracker.git
 [submodule "prj-better-planner"]
 	path = prj-better-planner
 	url = git@github.com:abuabdirohman4/prj-better-planner.git
+[submodule "prj-better-habit"]
+	path = prj-better-habit
+	url = git@github.com:abuabdirohman4/prj-better-habit.git
